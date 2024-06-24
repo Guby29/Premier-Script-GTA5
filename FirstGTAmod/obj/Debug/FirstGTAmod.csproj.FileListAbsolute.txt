@@ -1,0 +1,9 @@
+C:\Users\gamer\Desktop\Autres\Developpement\C#\scripts gta 5\script\FirstGTAmod\FirstGTAmod\bin\Debug\FirstGTAmod.dll
+C:\Users\gamer\Desktop\Autres\Developpement\C#\scripts gta 5\script\FirstGTAmod\FirstGTAmod\bin\Debug\FirstGTAmod.pdb
+C:\Users\gamer\Desktop\Autres\Developpement\C#\scripts gta 5\script\FirstGTAmod\FirstGTAmod\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\gamer\Desktop\Autres\Developpement\C#\scripts gta 5\script\FirstGTAmod\FirstGTAmod\bin\Debug\ScriptHookVDotNet3.xml
+C:\Users\gamer\Desktop\Autres\Developpement\C#\scripts gta 5\script\FirstGTAmod\FirstGTAmod\obj\Debug\FirstGTAmod.csproj.AssemblyReference.cache
+C:\Users\gamer\Desktop\Autres\Developpement\C#\scripts gta 5\script\FirstGTAmod\FirstGTAmod\obj\Debug\FirstGTAmod.csproj.CoreCompileInputs.cache
+C:\Users\gamer\Desktop\Autres\Developpement\C#\scripts gta 5\script\FirstGTAmod\FirstGTAmod\obj\Debug\FirstGTA.274E2EEA.Up2Date
+C:\Users\gamer\Desktop\Autres\Developpement\C#\scripts gta 5\script\FirstGTAmod\FirstGTAmod\obj\Debug\FirstGTAmod.dll
+C:\Users\gamer\Desktop\Autres\Developpement\C#\scripts gta 5\script\FirstGTAmod\FirstGTAmod\obj\Debug\FirstGTAmod.pdb
